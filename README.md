@@ -30,7 +30,7 @@ This project is part of my thesis work, **"Latent Space Exploration for Financia
 ## 🛠️ Technologies
 
 - **Programming Language**: Python
-- **Deep Learning Framework**: TensorFlow / PyTorch (based on the implementation context)
+- **Deep Learning Framework**: TensorFlow
 - **Model**: Temporal Autoencoders with embedded regressors
 - **Libraries**: Implementation libraries include scikit-learn, pandas, and NumPy for data handling.
 
