@@ -1,8 +1,8 @@
 # Latent Space Exploration for Financial Statement Forecasting 📊🔍
 
-[![License](https://img.shields.io/github/license/Gabrielebandino/LatentSpaceExploration)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/Gabrielebandino/LatentSpaceExploration)](https://github.com/Gabrielebandino/LatentSpaceExploration/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/Gabrielebandino/LatentSpaceExploration)](https://github.com/Gabrielebandino/LatentSpaceExploration/issues)
+[![License](https://img.shields.io/github/license/Gabrielebandino/ForecastingThesisPublic)](LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Gabrielebandino/ForecastingThesisPublic)](https://github.com/Gabrielebandino/ForecastingThesisPublic/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Gabrielebandino/ForecastingThesisPublic)](https://github.com/Gabrielebandino/ForecastingThesisPublic/issues)
 
 This project is part of my thesis work, **"Latent Space Exploration for Financial Statement Forecasting."** The thesis focuses on building a predictive model to forecast financial statements, leveraging latent space representations using temporal autoencoders and regressors. Due to confidentiality and institutional guidelines, only a shareable portion of the work is provided here.
 
